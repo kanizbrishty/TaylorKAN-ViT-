@@ -1,6 +1,6 @@
 # TaylorKAN-ViT
 
-**TaylorKAN-ViT: Enabling Parameter-Efficient Vision Transformers for Medical Image Classification**
+**TaylorKAN-ViT: Parameter-Efficient Vision Transformers for Medical Image Classification**
 
 **Author:** Kaniz Fatema  
 **Affiliation:** Wilfrid Laurier University
